@@ -16,12 +16,12 @@ The dataset contains various indicators related to climate change, such as:
 ---
 
 ### Typical Libraries Used
--pandas
--numpy
--matplotlib
--seaborn
--scikit-learn
--openpyxl (for reading .xls/.xlsx files)
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- openpyxl (for reading .xls/.xlsx files)
 
 
 ### License
