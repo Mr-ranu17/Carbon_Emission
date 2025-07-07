@@ -84,7 +84,7 @@ This project uses **Random Forest Regression** to build a reliable model that pr
 ---
 
 ##  Folder Structure
-carbon_emission_prediction/
+Carbon Emission/
 ├── Carbon_Emission_Prediction/
        ├── carbon_emission_files
        ├── week 1/
