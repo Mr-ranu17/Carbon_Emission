@@ -84,7 +84,9 @@ This project uses **Random Forest Regression** to build a reliable model that pr
 ---
 
 ##  Folder Structure
-Carbon Emission/
+
+---
+Carbon_Emission/
 ├── Carbon_Emission_Prediction/
        ├── carbon_emission_files
        ├── week 1/
@@ -100,6 +102,7 @@ Carbon Emission/
        └── forcasting_co2_emission.pkl
 ├── LICENSE
 └── README.md
+---
 
 ---
 ## 📄 License
