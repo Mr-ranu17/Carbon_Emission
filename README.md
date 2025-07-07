@@ -82,29 +82,6 @@ This project uses **Random Forest Regression** to build a reliable model that pr
 -  Deploy as a **public API or web app**
 
 ---
-
-##  Folder Structure
-
----
-Carbon_Emission/
-├── Carbon_Emission_Prediction/
-       ├── carbon_emission_files
-       ├── week 1/
-       |     ├──  Data_Preparation_CE.ipynb
-       ├── week 2/
-       |     ├── data_exploration.ipynb
-       ├── week 3/
-       |     ├── model_building.ipynb
-       ├── carbon_emission.html
-       ├── Carbon_Emission.ipynb
-       ├── cleaned_data.xls
-       ├── climate_change.xls
-       └── forcasting_co2_emission.pkl
-├── LICENSE
-└── README.md
----
-
----
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
